@@ -1,5 +1,3 @@
-Disclaimer: This repository contains only generic, sanitized instructional systems and examples using publicly available data sources. No classified, controlled, or proprietary materials are included. All contents are licensed under CC BY-NC-SA 4.0.
-
 # High-Reliability LDO
 **SOPs and demonstration artifacts for a high-reliability Learning Design & Operations (LDO) framework**
 
@@ -38,3 +36,14 @@ The system addresses the critical gap between **Standard Operating Procedures (S
 - **Logic Engine:** Apache KIE (DMN 1.6)
 - **Psychometrics:** Jamovi (R-Engine)
 - **Documentation:** Typst (Technical PDF Generation)
+
+---
+
+## Compliance & Legal
+
+### Security Disclosure
+**Disclaimer:** This repository contains only generic, sanitized instructional systems, examples, and publicly available data. No classified, controlled, or proprietary materials are included. 
+
+### Licensing
+All contents are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
+*For inquiries regarding proprietary implementations or commercial use, please contact the repository owner.*
