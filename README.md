@@ -1,1 +1,1 @@
-Disclaimer: This repository contains only generic, sanitized instructional systems and examples. No classified, controlled, or proprietary materials are included. All contents are licensed under CC BY-NC-SA 4.0.
+Disclaimer: This repository contains only generic, sanitized instructional systems and examples using publicly available data sources. No classified, controlled, or proprietary materials are included. All contents are licensed under CC BY-NC-SA 4.0.
