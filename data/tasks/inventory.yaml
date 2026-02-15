@@ -1,0 +1,30 @@
+# PROJECT: SOP-TRAINING-SYSTEM-ARCHITECTURE
+# ARTIFACT: 01 (JTA) & 03 (FMEA)
+# STATUS: BASELINE
+# VERSION: 1.0.0
+
+- task_id: T_001
+  name: "Initial Specimen Triage"
+  frequency: 5  # (1-5 scale)
+  criticality: 5 # (1-5 scale)
+  difficulty: 3 # (1-5 scale)
+  standard_ref: "SOP-LAB-01.Section.2"
+  failure_modes:
+    - mode: "Incorrect temperature classification"
+      severity: 9    # (1-10 scale for FMEA)
+      occurrence: 2  # (1-10 scale for FMEA)
+      detection: 3   # (1-10 scale for FMEA)
+  competency_links: [COMP_BIO_01, COMP_PROC_04]
+
+- task_id: T_002
+  name: "Cold-Chain Integrity Verification"
+  frequency: 5
+  criticality: 5
+  difficulty: 4
+  standard_ref: "SOP-LAB-01.Section.3.1"
+  failure_modes:
+    - mode: "Logger data misread"
+      severity: 10
+      occurrence: 1
+      detection: 5
+  competency_links: [COMP_DATA_02]
