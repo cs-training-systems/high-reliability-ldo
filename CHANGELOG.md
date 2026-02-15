@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Artifact 1 (JTA):** Created atomic data schema in `data/tasks/inventory.yaml`.
 - **Placeholder Framework:** Deployed `.gitkeep` files to preserve system architecture across all 8 artifact paths.
 - **CI/CD Scaffolding:** Added `build-and-publish.yml` for GitHub Actions integration.
+- **Documentation IA:** Relocated security/proprietary disclosure to the compliance & legal section for improved readability and alignment with standard repository conventions.
 
 ### Changed
 - **Naming Convention:** Migrated from methodology-based naming (`dacum/`) to functional naming (`data/tasks/`) to support cross-artifact data inheritance.
