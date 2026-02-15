@@ -1,7 +1,10 @@
-# PROJECT: SOP-TRAINING-SYSTEM-ARCHITECTURE
-# ARTIFACT: 01 (JTA) & 03 (FMEA)
-# STATUS: BASELINE
-# VERSION: 1.0.0
+---
+project: high-reliability ldo
+artifact: Artifact 1
+status: BASELINE
+version: 1.0.0
+last_audit: 2026-02-15
+---
 
 - task_id: T_001
   name: "Initial Specimen Triage"
